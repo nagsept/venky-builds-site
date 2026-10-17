@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://venky-builds-site-xd5e.vercel.app/sitemap.xml
